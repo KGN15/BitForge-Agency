@@ -30,7 +30,7 @@ export default function Footer() {
               }}
             >
               <Image
-                src="/logo.png"
+                src="/Logo.png"
                 alt="BitForge Logo"
                 width={120}
                 height={120}
