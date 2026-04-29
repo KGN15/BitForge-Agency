@@ -77,7 +77,7 @@ export default function LoadingScreen() {
                 fontWeight: 300,
               }}
             >
-              BitForge <span style={{ color: "#00ff88" }}>Studio</span>
+              BitForge <span style={{ color: "#00ff88" }}>Agency</span>
             </motion.h1>
 
             {/* Percentage Number */}

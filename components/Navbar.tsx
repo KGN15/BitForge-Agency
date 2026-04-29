@@ -58,7 +58,7 @@ export default function Navbar() {
       >
         {/* Logo */}
         <a
-          href="#"
+          href="#hero"
           onClick={(e) => {
             e.preventDefault();
             window.scrollTo({ top: 0, behavior: "smooth" });
