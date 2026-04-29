@@ -86,7 +86,7 @@ export default function Navbar() {
         {/* Desktop CTA */}
         <div style={{ display: "flex", alignItems: "center", gap: "20px" }}>
           <a
-            href="https://fiverr.com"
+            href="https://www.fiverr.com/bitforgeagency"
             target="_blank"
             rel="noopener noreferrer"
             className="group relative inline-flex items-center justify-center"

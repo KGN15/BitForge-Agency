@@ -141,7 +141,7 @@ export default function SpotlightCTA() {
           with a conversation.
         </p>
         <a
-          href="https://fiverr.com"
+          href="https://www.fiverr.com/bitforgeagency"
           target="_blank"
           rel="noopener noreferrer"
           className="group relative inline-flex items-center justify-center"

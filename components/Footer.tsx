@@ -193,7 +193,7 @@ export default function Footer() {
               Fiverr for secure, transparent collaboration.
             </p>
             <a
-              href="https://fiverr.com"
+              href="https://www.fiverr.com/bitforgeagency"
               target="_blank"
               rel="noopener noreferrer"
               className="relative overflow-hidden group"
